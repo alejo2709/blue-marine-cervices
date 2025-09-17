@@ -279,6 +279,15 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 2rem;
     color: var(--dark-color);
 }
+    
+    .logo-text {
+        font-size: 1.15rem;
+        margin-bottom: 0.5rem;
+        margin-top: 0.5rem;
+        line-height: 1.1;
+        word-break: break-word;
+        max-width: 90vw;
+    }
 
 .hero-highlight {
     background: var(--gradient);
@@ -1016,6 +1025,15 @@ h1, h2, h3, h4, h5, h6 {
         font-size: 2rem;
             margin-top: 40px;
     }
+    
+        .logo-text {
+            font-size: 1rem;
+            margin-bottom: 0.5rem;
+            margin-top: 0.5rem;
+            line-height: 1.1;
+            word-break: break-word;
+            max-width: 90vw;
+        }
 
     .section-title {
         font-size: 1.75rem;
