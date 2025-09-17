@@ -920,6 +920,26 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Responsive Design */
 @media (max-width: 768px) {
+    .nav-container {
+        flex-direction: column;
+        align-items: flex-start;
+        padding-top: 0.5rem;
+    }
+    .nav-logo {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 1rem;
+    }
+    .logo-text {
+        font-size: 1.15rem;
+        margin-bottom: 0.5rem;
+        margin-top: 0.5rem;
+        line-height: 1.1;
+        word-break: break-word;
+        max-width: 90vw;
+        text-align: center;
+    }
     .nav-menu {
         position: fixed;
         left: -100%;
@@ -931,6 +951,7 @@ h1, h2, h3, h4, h5, h6 {
         transition: var(--transition);
         box-shadow: var(--shadow);
         padding: 2rem 0;
+        margin-top: 0.5rem;
     }
 
     .nav-menu.active {
@@ -1021,9 +1042,32 @@ h1, h2, h3, h4, h5, h6 {
         padding: 0 15px;
     }
 
+    .nav-container {
+        flex-direction: column;
+        align-items: flex-start;
+        padding-top: 0.5rem;
+    }
+    .nav-logo {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 1rem;
+    }
+    .logo-text {
+        font-size: 1rem;
+        margin-bottom: 0.5rem;
+        margin-top: 0.5rem;
+        line-height: 1.1;
+        word-break: break-word;
+        max-width: 90vw;
+        text-align: center;
+    }
+    .nav-menu {
+        margin-top: 0.5rem;
+    }
     .hero-title {
         font-size: 2rem;
-            margin-top: 40px;
+        margin-top: 40px;
     }
     
         .logo-text {
