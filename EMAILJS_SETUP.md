@@ -1,4 +1,4 @@
-# Configuración de EmailJS para BlueLe Marine Services
+# Configuración de EmailJS para Blue Marine Nautical Services
 
 ## Pasos para configurar el envío de emails del formulario
 
@@ -37,7 +37,7 @@ Mensaje:
 {{message}}
 
 ---
-Enviado desde el formulario web de BlueLe Marine Services
+Enviado desde el formulario web de Blue Marine Nautical Services
 ```
 
 4. Anota el **Template ID** (ejemplo: `template_xyz789`)
