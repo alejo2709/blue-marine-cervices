@@ -1,4 +1,4 @@
-# Marine Landing - Sitio Web Profesional
+# BlueMarine - Sitio Web Profesional
 
 Un sitio web moderno y responsivo, que presenta servicios profesionales con un diseño elegante y funcionalidades interactivas.
 
