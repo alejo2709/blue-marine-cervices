@@ -87,10 +87,7 @@ Personalizar los estilos en `styles.css` siguiendo la metodología BEM.
 ## 📧 Contacto
 
 Para soporte técnico o consultas sobre el proyecto:
-
-- **Email**: info@marinelanding.com
-- **Teléfono**:             +123 456 7890
-- **Ubicación**: ----- Calle Falsa 123, Ciudad, País
+- **Email**: aleantfree@gmail.com
 
 ## 🏆 Características Destacadas
 
