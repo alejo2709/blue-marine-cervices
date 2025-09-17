@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Marine Landing - Sitio Web Profesional
 
 Un sitio web moderno y responsivo, que presenta servicios profesionales con un diseño elegante y funcionalidades interactivas.
@@ -107,3 +108,7 @@ Para soporte técnico o consultas sobre el proyecto:
 ---
 
 **Desarrollado por Alejandro Guzmán**
+=======
+# blue-marine-cervices
+web de compañía de reparación de yates  
+>>>>>>> 6d08a2844cb3a37a27f0960c0825892267ecba27
