@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Marine Landing - Sitio Web Profesional
 
 Un sitio web moderno y responsivo, que presenta servicios profesionales con un diseño elegante y funcionalidades interactivas.
@@ -87,10 +86,7 @@ Personalizar los estilos en `styles.css` siguiendo la metodología BEM.
 ## 📧 Contacto
 
 Para soporte técnico o consultas sobre el proyecto:
-
-- **Email**: info@marinelanding.com
-- **Teléfono**:             +123 456 7890
-- **Ubicación**: ----- Calle Falsa 123, Ciudad, País
+- **Email**: aleantfree@gmail.com
 
 ## 🏆 Características Destacadas
 
@@ -110,5 +106,4 @@ Para soporte técnico o consultas sobre el proyecto:
 **Desarrollado por Alejandro Guzmán**
 =======
 # blue-marine-cervices
-web de compañía de reparación de yates  
->>>>>>> 6d08a2844cb3a37a27f0960c0825892267ecba27
+web de compañía de reparación de yates 
