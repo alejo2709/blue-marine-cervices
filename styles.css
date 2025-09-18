@@ -1,3 +1,16 @@
+/* Diesel/Gas Highlight */
+.diesel-gas-highlight {
+    background: linear-gradient(90deg, #ffb100 0%, #ff2d55 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 900;
+    font-size: 1.2em;
+    letter-spacing: 2px;
+    text-shadow: 0 2px 8px rgba(255,45,85,0.15);
+    padding: 0 4px;
+    border-radius: 4px;
+}
 /* Certificaciones y Marcas */
 .certifications {
     margin-top: 2.5rem;
@@ -1144,4 +1157,20 @@ h1, h2, h3, h4, h5, h6 {
         color: #000;
         -webkit-text-fill-color: initial;
     }
+}
+
+.hero-location-message {
+    text-align: center;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #0891b2;
+    margin-bottom: 0.7rem;
+}
+
+.hero-floating-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
 }
