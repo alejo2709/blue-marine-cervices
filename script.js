@@ -191,7 +191,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     boat_type: data.embarcacion || 'No especificado',
                     service_type: data.servicio || 'No especificado',
                     message: data.mensaje,
-                    to_email: 'bluelemarineservices@gmail.com'
+                    to_email: 'consultaclientes12@gmail.com'
                 };
                 
                 // Enviar email con EmailJS
